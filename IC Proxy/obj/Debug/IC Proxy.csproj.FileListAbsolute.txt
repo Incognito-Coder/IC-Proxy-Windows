@@ -1,0 +1,21 @@
+C:\Users\alireza\source\repos\IC Proxy\IC Proxy\bin\Debug\IC Proxy.exe.config
+C:\Users\alireza\source\repos\IC Proxy\IC Proxy\bin\Debug\IC Proxy.exe
+C:\Users\alireza\source\repos\IC Proxy\IC Proxy\bin\Debug\IC Proxy.pdb
+C:\Users\alireza\source\repos\IC Proxy\IC Proxy\obj\Debug\IC Proxy.csprojAssemblyReference.cache
+C:\Users\alireza\source\repos\IC Proxy\IC Proxy\obj\Debug\IC_Proxy.MainForm.resources
+C:\Users\alireza\source\repos\IC Proxy\IC Proxy\obj\Debug\IC_Proxy.Properties.Resources.resources
+C:\Users\alireza\source\repos\IC Proxy\IC Proxy\obj\Debug\IC Proxy.csproj.GenerateResource.cache
+C:\Users\alireza\source\repos\IC Proxy\IC Proxy\obj\Debug\IC Proxy.csproj.CoreCompileInputs.cache
+C:\Users\alireza\source\repos\IC Proxy\IC Proxy\obj\Debug\IC Proxy.exe
+C:\Users\alireza\source\repos\IC Proxy\IC Proxy\obj\Debug\IC Proxy.pdb
+C:\Users\alireza\source\repos\IC Proxy\IC Proxy\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alireza\source\repos\IC Proxy\IC Proxy\bin\Debug\Newtonsoft.Json.xml
+C:\Users\alireza\source\repos\IC Proxy\IC Proxy\obj\Debug\IC Proxy.csproj.CopyComplete
+C:\Users\alireza\source\repos\IC Proxy\IC Proxy\bin\Debug\ServiceStack.Text.dll
+C:\Users\alireza\source\repos\IC Proxy\IC Proxy\bin\Debug\System.Buffers.dll
+C:\Users\alireza\source\repos\IC Proxy\IC Proxy\bin\Debug\System.Memory.dll
+C:\Users\alireza\source\repos\IC Proxy\IC Proxy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\alireza\source\repos\IC Proxy\IC Proxy\bin\Debug\ServiceStack.Text.xml
+C:\Users\alireza\source\repos\IC Proxy\IC Proxy\bin\Debug\System.Buffers.xml
+C:\Users\alireza\source\repos\IC Proxy\IC Proxy\bin\Debug\System.Memory.xml
+C:\Users\alireza\source\repos\IC Proxy\IC Proxy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml

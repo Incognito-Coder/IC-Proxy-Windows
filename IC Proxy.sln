@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IC Proxy", "IC Proxy\IC Proxy.csproj", "{27AD00F1-36BD-4BE0-971B-154990615ABE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27AD00F1-36BD-4BE0-971B-154990615ABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27AD00F1-36BD-4BE0-971B-154990615ABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27AD00F1-36BD-4BE0-971B-154990615ABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27AD00F1-36BD-4BE0-971B-154990615ABE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF779C99-6536-479D-88B3-1F595B6878A1}
+	EndGlobalSection
+EndGlobal

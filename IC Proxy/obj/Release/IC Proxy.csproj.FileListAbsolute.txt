@@ -1,0 +1,12 @@
+C:\Users\alireza\source\repos\IC Proxy\IC Proxy\bin\Release\IC Proxy.exe.config
+C:\Users\alireza\source\repos\IC Proxy\IC Proxy\bin\Release\IC Proxy.exe
+C:\Users\alireza\source\repos\IC Proxy\IC Proxy\bin\Release\IC Proxy.pdb
+C:\Users\alireza\source\repos\IC Proxy\IC Proxy\bin\Release\Newtonsoft.Json.dll
+C:\Users\alireza\source\repos\IC Proxy\IC Proxy\bin\Release\Newtonsoft.Json.xml
+C:\Users\alireza\source\repos\IC Proxy\IC Proxy\obj\Release\IC_Proxy.MainForm.resources
+C:\Users\alireza\source\repos\IC Proxy\IC Proxy\obj\Release\IC_Proxy.Properties.Resources.resources
+C:\Users\alireza\source\repos\IC Proxy\IC Proxy\obj\Release\IC Proxy.csproj.GenerateResource.cache
+C:\Users\alireza\source\repos\IC Proxy\IC Proxy\obj\Release\IC Proxy.csproj.CoreCompileInputs.cache
+C:\Users\alireza\source\repos\IC Proxy\IC Proxy\obj\Release\IC Proxy.csproj.CopyComplete
+C:\Users\alireza\source\repos\IC Proxy\IC Proxy\obj\Release\IC Proxy.exe
+C:\Users\alireza\source\repos\IC Proxy\IC Proxy\obj\Release\IC Proxy.pdb
