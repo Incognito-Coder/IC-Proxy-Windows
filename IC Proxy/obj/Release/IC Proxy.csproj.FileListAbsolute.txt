@@ -10,3 +10,29 @@ C:\Users\alireza\source\repos\IC Proxy\IC Proxy\obj\Release\IC Proxy.csproj.Core
 C:\Users\alireza\source\repos\IC Proxy\IC Proxy\obj\Release\IC Proxy.csproj.CopyComplete
 C:\Users\alireza\source\repos\IC Proxy\IC Proxy\obj\Release\IC Proxy.exe
 C:\Users\alireza\source\repos\IC Proxy\IC Proxy\obj\Release\IC Proxy.pdb
+D:\IC Proxy\IC Proxy\bin\Release\IC Proxy.exe.config
+D:\IC Proxy\IC Proxy\bin\Release\IC Proxy.exe.manifest
+D:\IC Proxy\IC Proxy\bin\Release\IC Proxy.application
+D:\IC Proxy\IC Proxy\bin\Release\IC Proxy.exe
+D:\IC Proxy\IC Proxy\bin\Release\IC Proxy.pdb
+D:\IC Proxy\IC Proxy\bin\Release\Eco.Handles.dll
+D:\IC Proxy\IC Proxy\bin\Release\Eco.Interfaces.dll
+D:\IC Proxy\IC Proxy\bin\Release\Eco.LinqExtender.dll
+D:\IC Proxy\IC Proxy\bin\Release\Eco.WPF.dll
+D:\IC Proxy\IC Proxy\bin\Release\FontAwesome.WPF.dll
+D:\IC Proxy\IC Proxy\bin\Release\Newtonsoft.Json.dll
+D:\IC Proxy\IC Proxy\bin\Release\WECPOFLogic.dll
+D:\IC Proxy\IC Proxy\bin\Release\WPFViewModelExternalControls.dll
+D:\IC Proxy\IC Proxy\bin\Release\System.Buffers.dll
+D:\IC Proxy\IC Proxy\bin\Release\FontAwesome.WPF.xml
+D:\IC Proxy\IC Proxy\bin\Release\Newtonsoft.Json.xml
+D:\IC Proxy\IC Proxy\obj\Release\IC_Proxy.MainForm.resources
+D:\IC Proxy\IC Proxy\obj\Release\IC_Proxy.Properties.Resources.resources
+D:\IC Proxy\IC Proxy\obj\Release\IC Proxy.csproj.GenerateResource.cache
+D:\IC Proxy\IC Proxy\obj\Release\IC Proxy.csproj.CoreCompileInputs.cache
+D:\IC Proxy\IC Proxy\obj\Release\IC Proxy.exe.manifest
+D:\IC Proxy\IC Proxy\obj\Release\IC Proxy.application
+D:\IC Proxy\IC Proxy\obj\Release\IC Proxy.csproj.CopyComplete
+D:\IC Proxy\IC Proxy\obj\Release\IC Proxy.exe
+D:\IC Proxy\IC Proxy\obj\Release\IC Proxy.pdb
+D:\IC Proxy\IC Proxy\obj\Release\IC Proxy.csprojAssemblyReference.cache

@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainForm));
             this.AppTitle = new System.Windows.Forms.Label();
             this.GetButton = new System.Windows.Forms.Button();
@@ -42,15 +43,23 @@
             this.SecretField = new System.Windows.Forms.TextBox();
             this.SaveButton = new System.Windows.Forms.Button();
             this.TGLink = new System.Windows.Forms.LinkLabel();
+            this.SystemTrayICON = new System.Windows.Forms.NotifyIcon(this.components);
+            this.TrayMenu = new System.Windows.Forms.ContextMenuStrip(this.components);
+            this.OPEN = new System.Windows.Forms.ToolStripMenuItem();
+            this.ABOUT = new System.Windows.Forms.ToolStripMenuItem();
+            this.UPDATE = new System.Windows.Forms.ToolStripMenuItem();
+            this.EXIT = new System.Windows.Forms.ToolStripMenuItem();
+            this.ping = new System.Windows.Forms.Label();
+            this.TrayMenu.SuspendLayout();
             this.SuspendLayout();
             // 
             // AppTitle
             // 
             this.AppTitle.AutoSize = true;
-            this.AppTitle.Font = new System.Drawing.Font("MS Outlook", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.AppTitle.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.AppTitle.Location = new System.Drawing.Point(12, 9);
             this.AppTitle.Name = "AppTitle";
-            this.AppTitle.Size = new System.Drawing.Size(237, 21);
+            this.AppTitle.Size = new System.Drawing.Size(238, 22);
             this.AppTitle.TabIndex = 0;
             this.AppTitle.Text = "IC Telegram MTProto Finder";
             this.AppTitle.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -167,11 +176,71 @@
             this.TGLink.Text = "Join Developer Channel";
             this.TGLink.Click += new System.EventHandler(this.TGLink_Click);
             // 
+            // SystemTrayICON
+            // 
+            this.SystemTrayICON.BalloonTipIcon = System.Windows.Forms.ToolTipIcon.Info;
+            this.SystemTrayICON.BalloonTipText = "Program Running.";
+            this.SystemTrayICON.BalloonTipTitle = "IC Proxy";
+            this.SystemTrayICON.ContextMenuStrip = this.TrayMenu;
+            this.SystemTrayICON.Icon = ((System.Drawing.Icon)(resources.GetObject("SystemTrayICON.Icon")));
+            this.SystemTrayICON.Text = "ICProxy";
+            this.SystemTrayICON.Visible = true;
+            this.SystemTrayICON.MouseDoubleClick += new System.Windows.Forms.MouseEventHandler(this.SystemTrayICON_MouseDoubleClick);
+            // 
+            // TrayMenu
+            // 
+            this.TrayMenu.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.OPEN,
+            this.ABOUT,
+            this.UPDATE,
+            this.EXIT});
+            this.TrayMenu.Name = "TrayMenu";
+            this.TrayMenu.Size = new System.Drawing.Size(166, 92);
+            // 
+            // OPEN
+            // 
+            this.OPEN.Name = "OPEN";
+            this.OPEN.Size = new System.Drawing.Size(165, 22);
+            this.OPEN.Text = "Open";
+            this.OPEN.Click += new System.EventHandler(this.OPEN_Click);
+            // 
+            // ABOUT
+            // 
+            this.ABOUT.Name = "ABOUT";
+            this.ABOUT.Size = new System.Drawing.Size(165, 22);
+            this.ABOUT.Text = "About";
+            this.ABOUT.Click += new System.EventHandler(this.ABOUT_Click);
+            // 
+            // UPDATE
+            // 
+            this.UPDATE.Name = "UPDATE";
+            this.UPDATE.Size = new System.Drawing.Size(165, 22);
+            this.UPDATE.Text = "Check for update";
+            this.UPDATE.Click += new System.EventHandler(this.UPDATE_Click);
+            // 
+            // EXIT
+            // 
+            this.EXIT.Name = "EXIT";
+            this.EXIT.Size = new System.Drawing.Size(165, 22);
+            this.EXIT.Text = "Exit";
+            this.EXIT.Click += new System.EventHandler(this.EXIT_Click);
+            // 
+            // ping
+            // 
+            this.ping.AutoSize = true;
+            this.ping.ForeColor = System.Drawing.Color.OrangeRed;
+            this.ping.Location = new System.Drawing.Point(109, 47);
+            this.ping.Name = "ping";
+            this.ping.Size = new System.Drawing.Size(55, 13);
+            this.ping.TabIndex = 13;
+            this.ping.Text = "Ping : ------";
+            // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(520, 260);
+            this.Controls.Add(this.ping);
             this.Controls.Add(this.TGLink);
             this.Controls.Add(this.SaveButton);
             this.Controls.Add(this.SecretField);
@@ -191,8 +260,10 @@
             this.MaximizeBox = false;
             this.Name = "MainForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "IC Proxy - for Microsoft Windows";
+            this.Text = "IC Proxy - for Microsoft Windows | v2.5";
             this.Load += new System.EventHandler(this.MainForm_Load);
+            this.Resize += new System.EventHandler(this.MainForm_Resize);
+            this.TrayMenu.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -213,6 +284,13 @@
         private System.Windows.Forms.TextBox SecretField;
         private System.Windows.Forms.Button SaveButton;
         private System.Windows.Forms.LinkLabel TGLink;
+        private System.Windows.Forms.NotifyIcon SystemTrayICON;
+        private System.Windows.Forms.ContextMenuStrip TrayMenu;
+        private System.Windows.Forms.ToolStripMenuItem OPEN;
+        private System.Windows.Forms.ToolStripMenuItem ABOUT;
+        private System.Windows.Forms.ToolStripMenuItem UPDATE;
+        private System.Windows.Forms.ToolStripMenuItem EXIT;
+        private System.Windows.Forms.Label ping;
     }
 }
 
