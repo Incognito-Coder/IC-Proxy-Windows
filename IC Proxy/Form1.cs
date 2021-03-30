@@ -126,7 +126,7 @@ namespace IC_Proxy
             result = MessageBox.Show("This application written in C# and free for use.\nRelease: 2020/09/09 v2.5\nDeveloper: Incognito Coder", "about this tool ", MessageBoxButtons.YesNoCancel);
             if (result == DialogResult.Yes)
             {
-                Process.Start("https://github.com/Incognito-Coder");
+                Process.Start("https://github.com/Incognito-Coder/IC-Proxy-Windows");
             }
             else if (result == DialogResult.No)
             {
