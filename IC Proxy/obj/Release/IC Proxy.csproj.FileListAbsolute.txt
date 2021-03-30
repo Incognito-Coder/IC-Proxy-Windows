@@ -30,3 +30,23 @@ D:\IC Proxy\IC Proxy\obj\Release\IC Proxy.csproj.CopyComplete
 D:\IC Proxy\IC Proxy\obj\Release\IC Proxy.exe
 D:\IC Proxy\IC Proxy\obj\Release\IC Proxy.pdb
 D:\IC Proxy\IC Proxy\obj\Release\IC Proxy.csprojAssemblyReference.cache
+C:\Users\Alice\Source\Repos\Incognito-Coder\IC-Proxy-Windows\IC Proxy\obj\Release\IC_Proxy.MainForm.resources
+C:\Users\Alice\Source\Repos\Incognito-Coder\IC-Proxy-Windows\IC Proxy\obj\Release\IC_Proxy.Properties.Resources.resources
+C:\Users\Alice\Source\Repos\Incognito-Coder\IC-Proxy-Windows\IC Proxy\obj\Release\IC Proxy.csproj.GenerateResource.cache
+C:\Users\Alice\Source\Repos\Incognito-Coder\IC-Proxy-Windows\IC Proxy\obj\Release\IC Proxy.csproj.CoreCompileInputs.cache
+C:\Users\Alice\Source\Repos\Incognito-Coder\IC-Proxy-Windows\IC Proxy\bin\Release\IC Proxy.exe.config
+C:\Users\Alice\Source\Repos\Incognito-Coder\IC-Proxy-Windows\IC Proxy\bin\Release\IC Proxy.exe.manifest
+C:\Users\Alice\Source\Repos\Incognito-Coder\IC-Proxy-Windows\IC Proxy\bin\Release\IC Proxy.application
+C:\Users\Alice\Source\Repos\Incognito-Coder\IC-Proxy-Windows\IC Proxy\bin\Release\IC Proxy.exe
+C:\Users\Alice\Source\Repos\Incognito-Coder\IC-Proxy-Windows\IC Proxy\bin\Release\IC Proxy.pdb
+C:\Users\Alice\Source\Repos\Incognito-Coder\IC-Proxy-Windows\IC Proxy\bin\Release\FontAwesome.WPF.dll
+C:\Users\Alice\Source\Repos\Incognito-Coder\IC-Proxy-Windows\IC Proxy\bin\Release\Newtonsoft.Json.dll
+C:\Users\Alice\Source\Repos\Incognito-Coder\IC-Proxy-Windows\IC Proxy\bin\Release\System.Buffers.dll
+C:\Users\Alice\Source\Repos\Incognito-Coder\IC-Proxy-Windows\IC Proxy\bin\Release\FontAwesome.WPF.xml
+C:\Users\Alice\Source\Repos\Incognito-Coder\IC-Proxy-Windows\IC Proxy\bin\Release\Newtonsoft.Json.xml
+C:\Users\Alice\Source\Repos\Incognito-Coder\IC-Proxy-Windows\IC Proxy\obj\Release\IC Proxy.csprojAssemblyReference.cache
+C:\Users\Alice\Source\Repos\Incognito-Coder\IC-Proxy-Windows\IC Proxy\obj\Release\IC Proxy.exe.manifest
+C:\Users\Alice\Source\Repos\Incognito-Coder\IC-Proxy-Windows\IC Proxy\obj\Release\IC Proxy.application
+C:\Users\Alice\Source\Repos\Incognito-Coder\IC-Proxy-Windows\IC Proxy\obj\Release\IC Proxy.csproj.CopyComplete
+C:\Users\Alice\Source\Repos\Incognito-Coder\IC-Proxy-Windows\IC Proxy\obj\Release\IC Proxy.exe
+C:\Users\Alice\Source\Repos\Incognito-Coder\IC-Proxy-Windows\IC Proxy\obj\Release\IC Proxy.pdb
